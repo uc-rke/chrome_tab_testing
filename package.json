@@ -1,0 +1,14 @@
+{
+  "name": "chrome_tab_testing",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^8.1.1"
+  },
+  "dependencies": {
+    "get-chrome-tabs": "^1.0.0"
+  }
+}
